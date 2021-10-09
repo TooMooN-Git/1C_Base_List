@@ -1,0 +1,26 @@
+﻿{
+{"LRInfoBaseIDListSize",
+{"N",4},"ShowIBsAsTree",
+{"B",1},"AutoSortIBs",
+{"B",1},"ShowRecentIBs",
+{"B",0},"DefaultConnectionSpeed",
+{"N",1},""},
+{
+{"OfflineCustomizationStorage",
+{"StartupDlgWindowPos",
+{"S","{1,2,""StartUpDlg.f"",""{3,1,""""TopLevelTaxiPlus/_TDI"""",""""{5,1,546,201,1359,789,490,349,0,0,0,00000000-0000-0000-0000-000000000000,0,AAAAAAAAAAAAAAAAAAAAAAAAAAA=,0,0,0,0,0}""""}"",""StartUpSetupDlg.f"",""{3,1,""""TopLevelTaxiPlus/_TDI"""",""""{5,1,698,199,1222,842,522,601,0,0,0,00000000-0000-0000-0000-000000000000,0,AAAAAAAAAAAAAAAAAAAAAAAAAAA=,0,0,0,0,0}""""}""}"},""},
+{
+{""}
+}
+},
+{"ModalViews",
+{"Запуск 1С:Предприятия",
+{"S","{9,1,490,349,-2147483648,-2147483648,0,0,"""",1}"},"Настройка диалога запуска_Large",
+{"S","{9,1,522,601,-2147483648,-2147483648,0,0,"""",1}"},""},
+{
+{""}
+}
+},
+{""}
+}
+}

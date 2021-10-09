@@ -1,0 +1,9 @@
+﻿[base id_1]
+Connect=Srvr="server-1:1541";Ref="base_id_1";
+Folder=/Dev
+ClientConnectionSpeed=Normal
+App=ThinClient
+WA=1
+Version=8.3
+AdditionalParameters=/ClearCache /TComp -None /O Normal /iTaxi /SLev0 /L ru /VL ru /RunModeManagedApplication /DisableStartupMessages /UseHwLicenses- /AppAutoCheckVersion-
+AppArch=x86_64
